@@ -1,0 +1,6 @@
+# 内部ドキュメント (App Store 提出用メモ・リリース手順) は公開対象外
+release_guide.md
+app_store_metadata.md
+
+# macOS
+.DS_Store
